@@ -1,7 +1,7 @@
  # 스파르타 코딩클럽 [호랑이해]덕담 프로젝트
  https://deokdam.spartacodingclub.kr/vyksfqaG8LJw/index.html
  
- ![덕담] ![image](https://user-images.githubusercontent.com/87532431/153758472-33c5238c-62bc-426e-a298-73ab964ff822.png)
+ ![image](https://user-images.githubusercontent.com/87532431/153758472-33c5238c-62bc-426e-a298-73ab964ff822.png)
 
 ## 프로젝트 기능: 
 직접 코딩한 덕담 페이지를 SNS에 공유해,
